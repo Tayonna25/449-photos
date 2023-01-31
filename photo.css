@@ -8,5 +8,12 @@ size: 50%;
 }
 
 h1 {
+    background-color: blueviolet;
 
+}
+
+img {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0;
 }
